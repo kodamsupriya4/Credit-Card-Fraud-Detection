@@ -47,7 +47,7 @@ What the Notebook Includes
 - Best model selection logic:
   - Based on highest F1-score (primary)
 - Saving final model as `best_model.pkl`
-- Prediction on sample test cases (Fraud / Not Fraud + probability)
+- Prediction on sample test cases (Fraud / Not Fraud )
 
 ---
 
